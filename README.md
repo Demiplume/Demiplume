@@ -1,4 +1,7 @@
-### Hi there 👋
+#### Hey!
+
+Im a C#/Python developper interested in web development, scripting, coding standards and QA.
+Feel free to reach out to me!
 
 <!--
 **Demiplume/Demiplume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
