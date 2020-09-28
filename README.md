@@ -1,6 +1,7 @@
 #### Hey!
 
 Im a C#/Python developper interested in web development, scripting, coding standards and QA.
+
 Feel free to reach out to me!
 
 <!--
